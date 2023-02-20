@@ -1,0 +1,10 @@
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Form1.resources
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.Cache
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojAssemblyReference.cache
+E:\Projects\Sample Projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
